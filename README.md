@@ -2,7 +2,7 @@
 # _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ Cronômetro de intervalo
 <br>
 
-#### Cronometro que intercala tempo de trabalho e tempo de descanso! 
+#### Cronômetro que intercala tempo de trabalho e tempo de descanso! 
 #### Projeto criado com gerenciamento de estado MobX.
 <br>
 
